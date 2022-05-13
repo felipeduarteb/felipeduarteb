@@ -12,9 +12,9 @@
 </div>
   
   
-<!-- ![Snake animation](https://github.com/felipeduarteb/blob/output/github-contribution-grid-snake.svg) -->
-  ![Snake animation](https://github.com/felipeduarteb/felipeduarteb/)
-<!--
+![Snake animation](https://github.com/felipeduarteb/felipeduarteb/blob/output/github-contribution-grid-snake.svg)
+<!--   ![Snake animation](https://github.com/felipeduarteb/felipeduarteb/) -->
+
 **felipeduarteb/felipeduarteb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
