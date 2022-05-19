@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on front-end.
-- 🌱 I’m currently learning ReactJS and database.
+- 🌱 I’m currently learning Database and NodeJS.
 
 
 <div align="center">
