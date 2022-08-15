@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on front-end.
-- 🌱 I’m currently learning Database and NodeJS.
+- 🌱 I’m currently learning Kotlin.
 
 
 <div align="center">
