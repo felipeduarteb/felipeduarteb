@@ -1,4 +1,4 @@
-# 👨‍💻 Olá, eu sou [Felipe Duarte]! 🚀
+# 👨‍💻 Olá, eu sou Felipe Duarte! 🚀
 
 Sou um **Desenvolvedor Fullstack** apaixonado por tecnologia, inovação e por transformar ideias em soluções que fazem a diferença. 
 
