@@ -1,15 +1,25 @@
-### Hello, welcome to my GitHub profile. 👋
+# 👨‍💻 Olá, eu sou Felipe Duarte! 🚀
 
+Sou um **Desenvolvedor Fullstack** apaixonado por tecnologia, inovação e por transformar ideias em soluções que fazem a diferença. 
 
-- 🔭 I’m currently working on front-end.
-- 🌱 I’m currently learning Kotlin.
+### 🛠️ Tecnologias e Ferramentas
+- **Frontend:** React, React Native, Angular  
+- **Backend:** Node.js, Express, C# (em aprendizado)  
+- **Mobile:** Expo React Native  
+- **DevOps:** Docker, CI/CD  
+- **Gestão:** Tech Lead em projetos ágeis, mentorando equipes e entregando valor com foco na excelência técnica.  
 
+### 🌟 O que me move?
+- 💡 Resolver problemas complexos com soluções elegantes e escaláveis.  
+- 📚 Estar sempre aprendendo e compartilhando conhecimento.  
+- 🛠️ Construir aplicações que impactam positivamente a vida das pessoas.  
 
-<div align="center">
-  <a href="https://github.com/felipeduarteb">
-  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=felipeduarteb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    </a>
-  <a href="https://github.com/felipeduarteb">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=felipeduarteb&layout=compact" />
-</a>
-</div>
+### 🌐 Onde me encontrar?
+- **LinkedIn:** LinkedIn(https://www.linkedin.com/in/felipe-duarte-bispo/)  
+- **Contato:** fd.duarte.b@gmail.com(mailto:fd.duarte.b@gmail.com)  
+
+---
+
+> _"A tecnologia não é apenas uma ferramenta, é a ponte para transformar sonhos em realidade."_  
+
+🌱 Vamos construir algo incrível juntos? 
