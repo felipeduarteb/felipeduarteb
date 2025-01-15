@@ -1,4 +1,4 @@
-# 👨‍💻 Olá, eu sou Felipe Duarte! 🚀
+# 👨‍💻 Olá, eu sou [Felipe Duarte]! 🚀
 
 Sou um **Desenvolvedor Fullstack** apaixonado por tecnologia, inovação e por transformar ideias em soluções que fazem a diferença. 
 
@@ -15,8 +15,8 @@ Sou um **Desenvolvedor Fullstack** apaixonado por tecnologia, inovação e por t
 - 🛠️ Construir aplicações que impactam positivamente a vida das pessoas.  
 
 ### 🌐 Onde me encontrar?
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/felipe-duarte-bispo/)  
-- **Contato:** fd.duarte.b@gmail.com(mailto:fd.duarte.b@gmail.com)  
+- **LinkedIn:** [Felipe Duarte](https://www.linkedin.com/in/felipe-duarte-bispo/)  
+- **Contato:** [fd.duarte.b@gmail.com](mailto:fd.duarte.b@gmail.com)  
 
 ---
 
