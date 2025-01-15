@@ -34,14 +34,10 @@ Adoro conhecer pessoas com ideias incríveis! Se você tem um projeto interessan
 - **LinkedIn:** [Felipe Duarte](https://www.linkedin.com/in/felipe-duarte-bispo/)  
 - **Contato:** [fd.duarte.b@gmail.com](mailto:fd.duarte.b@gmail.com)
 
-  
-### 📊 Minhas Estatísticas
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=felipeduarteb&theme=dracula)
-
 
 ---
 
 > _"A tecnologia não é apenas uma ferramenta, é a ponte para transformar sonhos em realidade."_  
-> _ ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) _  
+<!-- > _ ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) _  -->
 
 🌱 Vamos construir algo incrível juntos? 
