@@ -30,7 +30,25 @@ Adoro conhecer pessoas com ideias incríveis! Se você tem um projeto interessan
 
 ### 🌐 Onde me encontrar?
 - **LinkedIn:** [Felipe Duarte](https://www.linkedin.com/in/felipe-duarte-bispo/)  
-- **Contato:** [fd.duarte.b@gmail.com](mailto:fd.duarte.b@gmail.com)  
+- **Contato:** [fd.duarte.b@gmail.com](mailto:fd.duarte.b@gmail.com)
+
+  ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+  
+### 📊 Minhas Estatísticas
+![Seu Nome GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipeduarteb&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeduarteb&layout=compact&theme=radical)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=felipeduarteb&theme=dracula)
+
+### 🏆 Minhas Conquistas  
+![Trophy](https://github-profile-trophy.vercel.app/?username=felipeduarteb&theme=onestar&no-frame=true&column=4)
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+
+
 
 ---
 
