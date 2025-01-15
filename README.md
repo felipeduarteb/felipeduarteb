@@ -35,7 +35,7 @@ Adoro conhecer pessoas com ideias incríveis! Se você tem um projeto interessan
   ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
   
 ### 📊 Minhas Estatísticas
-![Seu Nome GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipeduarteb&show_icons=true&theme=radical)  
+![felipeduarteb GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipeduarteb&show_icons=true&theme=radical)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeduarteb&layout=compact&theme=radical)
 
